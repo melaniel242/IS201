@@ -1,0 +1,99 @@
+body {font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-color: powderblue;
+    }  
+
+    /* Comment: the font style is changed to sans-serif, 
+    the font size is 15px, and the color is a shade of
+     gray. You can modify these values to your liking. */
+
+ .header-center {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+  .mainbody {
+    height: 600px;   /* increase this number */
+}
+
+    /* 1. Italic text */
+.italicText {
+    font-style: italic;
+}
+
+/* 2. Extra bold text */
+.extraBold {
+    font-weight: 800;
+}
+
+/* 3. Large text */
+.largeText {
+    font-size: 24px;
+}
+
+/* 4. Spaced-out letters */
+.spacedText {
+    letter-spacing: 3px;
+}
+
+
+.hotPink {
+    color: #FF1493;   /* hot pink */
+}
+
+.darkPurple {
+    color: #4B0082;   /* deep indigo-purple */
+}
+
+.lavenderMist {
+    color: #E6E0FF;   /* pale lavender */
+}
+
+.warmCream {
+    color: #FFF4E6;   /* creamy off‑white */
+}
+
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+.serifFont {
+    font-family: Georgia, serif;
+}
+
+.sansFont {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.monoFont {
+    font-family: "Courier New", monospace;
+}
+
+.displayFont {
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+
+
+
+
+
+/* comment: The class "stylesheetListHeading" is used to 
+style the headings in the resume section. It makes the text bold
+ and normal (not italicized). You can apply this class to
+  any element you want to style as a heading in your resume. */
+
+  .underline {  text-decoration: underline;} 
+  .bold { font-weight: bold;}
+  .justify { text-align: justify;}
+
+  /* comment: The classes "underline", "bold", and "justify" can be used to apply specific styles to elements.
+  "underline" will underline the text, "bold" will make the text bold, and "justify" will justify the text. */
+
+ 
+
